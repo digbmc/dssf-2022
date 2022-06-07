@@ -42,3 +42,5 @@ Karina Gonzalez - EaST Assistant
 
 ### Git& GitHub workshop
 
+## Notes from Workshop
+1. Repo or repository: a discrete project on GitHub that contains a set of files, a change history, and a set of contributors. 
