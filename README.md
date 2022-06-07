@@ -39,3 +39,6 @@ Karina Gonzalez - EaST Assistant
 [Resources](/resources)
 
 [Syllabus](syllabus.md)
+
+### Git& GitHub workshop
+
