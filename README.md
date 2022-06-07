@@ -41,3 +41,4 @@ Karina Gonzalez - EaST Assistant
 [Syllabus](syllabus.md)
 
 ### Adrianna's edit
+### Adrianna's new edit
